@@ -1,0 +1,2 @@
+# Google IT Support Professional Certificate - Matheus Almeida e Silva
+ This professional certificate developed by Google includes an innovative curriculum designed for entry-level IT support roles. I was trained and equipped for remote or on-site help desk work. Through a mix of video lectures, quizzes, and practical labs and widgets, the program taught me how to develop problem-solving, customer service, networking, operating systems, system administration, and security skills. This course is comprised of 5 courses focused on specialized IT support.
